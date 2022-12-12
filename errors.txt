@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/gui.rpy", line 112: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+    005
+       ^
+
+Ren'Py Version: Ren'Py 8.0.1.22070801
+Mon Dec 12 21:46:53 2022
